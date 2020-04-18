@@ -1,0 +1,14 @@
+body{
+  background: url(bg.jpg) no-repeat center center fixed
+
+}
+.hero
+{
+  color: #fff;
+  margin: 20%;
+  text-align: center;
+  font-size: 32px;
+  letter-spacing: 0.05em;
+  line-height: 2em;
+    font-family: 'FFF Forward', arial;
+}
