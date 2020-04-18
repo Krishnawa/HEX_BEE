@@ -11,4 +11,5 @@ body{
   letter-spacing: 0.05em;
   line-height: 2em;
     font-family: 'FFF Forward', arial;
+  text-shadow: 4px 4px 4px #fff;
 }
